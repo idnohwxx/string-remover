@@ -1,4 +1,5 @@
 # string-remover
+![image](https://github.com/idnohwxx/string-remover/assets/126401775/3e3966f0-287d-4999-bcab-687f90d9bf64)
 
 Usage : 
 
