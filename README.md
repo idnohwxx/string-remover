@@ -1,5 +1,5 @@
 # string-remover
-![image](https://github.com/idnohwxx/string-remover/assets/126401775/3e3966f0-287d-4999-bcab-687f90d9bf64)
+![image](https://github.com/idnohwxx/string-remover/assets/126401775/fd332eab-6c7a-4ec6-8a25-3de4e3d3b1a1)
 
 Usage : 
 
