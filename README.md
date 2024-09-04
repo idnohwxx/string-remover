@@ -1,4 +1,8 @@
 # string-remover
+
+How does this string remover works? i just using the pymem memory manipulation to hide the real strings.
+This project only for fun!
+
 ![image](https://github.com/idnohwxx/string-remover/assets/126401775/fd332eab-6c7a-4ec6-8a25-3de4e3d3b1a1)
 
 Usage : 
