@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/197b5185-a1df-4c59-94d0-23d08c8728f0)# string-remover
+# string-remover
 
 How does this string remover works? i just using the pymem memory manipulation to hide the real strings.
 
