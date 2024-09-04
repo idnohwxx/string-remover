@@ -29,8 +29,6 @@ class StringRemover:
 if __name__ == "__main__":
     remover = StringRemover()
     print(Fore.GREEN + "[+] " + Fore.LIGHTWHITE_EX + "made by idnohwxx")
-    print("\n")
-    print(Fore.GREEN + "[+] " + Fore.LIGHTWHITE_EX + "importing libraries...")
     print(Fore.LIGHTYELLOW_EX + "[*] " + Fore.LIGHTWHITE_EX + "1. " + Fore.LIGHTWHITE_EX + "remove string")
     print(Fore.LIGHTYELLOW_EX + "[*] " + Fore.LIGHTWHITE_EX + "2. " + Fore.LIGHTWHITE_EX + "exit")
     choice = input(Fore.GREEN + "[+] " + Fore.LIGHTWHITE_EX + "Enter your choice: ")
